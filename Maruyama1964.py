@@ -21,7 +21,7 @@ def Maruyama1964(x1, x2, xi1, xi2, xi3, M11, M22, M33, M12, M23, M31, lam, mu):
     [Output]
     - u1, u2, u3: surface displacement
     
-    Note that the z-coordinate is defined as positive in the vertically downward direction.
+    Note that the z-coordinate is defined as upward = positive.
 
     [References]
     - T. Yabuki, M. Matsu'ura, 
